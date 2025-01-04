@@ -9,6 +9,6 @@
   "author": "Destiny Omoruyi",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.1.9"
   }
 }
